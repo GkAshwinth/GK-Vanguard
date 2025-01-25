@@ -1,11 +1,12 @@
 {
     "name": "GK Vanguard",
     "short_name": "GK-Vanguard",
-    "start_url": "/GK-Vanguard/",
+    "start_url": "/GK-Vanguard/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
     "description": "This is a sample Progressive Web App",
+    
     "icons": [
       {
         "src": "/android-icon-36x36.png",
