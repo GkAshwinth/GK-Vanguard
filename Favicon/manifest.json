@@ -1,7 +1,7 @@
 {
     "name": "GK Vanguard",
     "short_name": "GK-Vanguard",
-    "start_url": "/GK-Vanguard",
+    "start_url": "/GK-Vanguard/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
